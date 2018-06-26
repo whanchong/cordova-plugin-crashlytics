@@ -1,0 +1,30 @@
+{
+  "name": "com.checkroom.plugin.crashlytics",
+  "version": "0.4.0",
+  "description": "Cordova Crashlytics Plugin for iOS and Android",
+  "cordova": {
+    "id": "com.checkroom.plugin.crashlytics",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verheyefrancesco/cordova-plugin-crashlytics.git"
+  },
+  "keywords": [
+    "cordova",
+    "craslytics",
+    "ios",
+    "android",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verheyefrancesco/cordova-plugin-crashlytics/issues"
+  },
+  "homepage": "https://github.com/verheyefrancesco/cordova-plugin-crashlytics#readme"
+}
